@@ -1,7 +1,7 @@
 {
   "name": "one-light-material-syntax",
   "theme": "syntax",
-  "version": "0.1.0",
+  "version": "1.8.4",
   "description": "A fork of atom's one light syntax theme, but with material colors",
   "keywords": [
     "light",
