@@ -1,13 +1,14 @@
 {
-  "name": "one-light-syntax",
+  "name": "one-light-material-syntax",
   "theme": "syntax",
-  "version": "1.8.4",
-  "description": "Atom One light syntax theme",
+  "version": "0.1",
+  "description": "A fork of atom's one light syntax theme, but with material colors",
   "keywords": [
     "light",
+    "material",
     "syntax"
   ],
-  "repository": "https://github.com/atom/one-light-syntax",
+  "repository": "https://github.com/Blechlawine/one-light-material-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">0.40.0"
